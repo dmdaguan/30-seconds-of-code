@@ -10,6 +10,9 @@
 
 [![Sponsored by DigitalOcean](/sponsored_by_DigitalOcean.png)](https://www.digitalocean.com)
 
+这个项目里精心收集了大量有用的JavaScript代码片段，让你能够在极短的时间内可以理解并使用它们，分为日期、节点、功能模块等部分，你可以直接将文件中的这些代码直接导入到你的的编辑器（VSCode，Atom，Sublime）
+
+
 * Use <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>command</kbd> + <kbd>F</kbd> to search for a snippet.
 * Contributions welcome, please read the [contribution guide](CONTRIBUTING.md).
 * Snippets are written in ES6, use the [Babel transpiler](https://babeljs.io/) to ensure backwards-compatibility.
